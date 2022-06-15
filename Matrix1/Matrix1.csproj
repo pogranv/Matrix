@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>Matrix</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include="..\..\..\..\..\Семинары\6\ConsoleApp1\ConsoleApp1.sln">
+        <Link>ConsoleApp1.sln</Link>
+      </Content>
+    </ItemGroup>
+
+</Project>

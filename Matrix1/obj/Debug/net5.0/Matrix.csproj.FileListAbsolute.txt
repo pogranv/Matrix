@@ -1,0 +1,16 @@
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\bin\Debug\net5.0\Matrix.exe
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\bin\Debug\net5.0\Matrix.deps.json
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\bin\Debug\net5.0\Matrix.runtimeconfig.json
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\bin\Debug\net5.0\Matrix.runtimeconfig.dev.json
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\bin\Debug\net5.0\Matrix.dll
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\bin\Debug\net5.0\ref\Matrix.dll
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\bin\Debug\net5.0\Matrix.pdb
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\obj\Debug\net5.0\Matrix.csproj.AssemblyReference.cache
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\obj\Debug\net5.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\obj\Debug\net5.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\obj\Debug\net5.0\Matrix.AssemblyInfo.cs
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\obj\Debug\net5.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\obj\Debug\net5.0\Matrix.dll
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\obj\Debug\net5.0\ref\Matrix.dll
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\obj\Debug\net5.0\Matrix.pdb
+C:\Users\Андрюшка\Desktop\HSE\Прога\ДЗ\Пир\2 Матрицы\Matrix\Matrix\obj\Debug\net5.0\Matrix.genruntimeconfig.cache
